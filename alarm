@@ -1,5 +1,5 @@
 #!/bin/bash
-# hello
+# hello im fine 
 if [ $# -lt 1 ]
 then
   echo "Time needed"
